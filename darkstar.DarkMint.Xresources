@@ -1,0 +1,37 @@
+! DarkMint
+*.foreground:   #e6e1e3
+*.background:   #000000
+*.cursorColor:  #e6e1e3
+
+! black
+*.color0:       #000000
+*.color8:       #5990a9
+
+! red
+*.color1:       #140f11
+*.color9:       #9b7551
+
+! green
+*.color2:       #292124
+*.color10:      #a954e0
+
+! yellow
+*.color3:       #44393d
+*.color11:      #bb97db
+
+! blue
+*.color4:       #68575d
+*.color12:      #c64f86
+
+! magenta
+*.color5:       #927c84
+*.color13:      #d99db4
+
+! cyan
+*.color6:       #b9acb0
+*.color14:      #8ba75e
+
+! white
+*.color7:       #e6e1e3
+*.color15:      #78b1a1
+

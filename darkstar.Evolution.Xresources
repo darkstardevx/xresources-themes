@@ -1,0 +1,37 @@
+! Evolution
+*.foreground:   #b0dce0
+*.background:   #060a0a
+*.cursorColor:  #b0dce0
+
+! black
+*.color0:       #0c1212
+*.color8:       #6d85d9
+
+! red
+*.color1:       #141c1d
+*.color9:       #99abf3
+
+! green
+*.color2:       #232e2f
+*.color10:      #5d83f2
+
+! yellow
+*.color3:       #374748
+*.color11:      #de6349
+
+! blue
+*.color4:       #516768
+*.color12:      #60bcc2
+
+! magenta
+*.color5:       #6f8c8f
+*.color13:      #368d92
+
+! cyan
+*.color6:       #93b9bc
+*.color14:      #39969b
+
+! white
+*.color7:       #c4e9ed
+*.color15:      #479061
+

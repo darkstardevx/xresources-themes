@@ -1,0 +1,37 @@
+! Programmer
+*.foreground:   #b4dcda
+*.background:   #060a0a
+*.cursorColor:  #b4dcda
+
+! black
+*.color0:       #0c1212
+*.color8:       #d255d2
+
+! red
+*.color1:       #151c1c
+*.color9:       #44928f
+
+! green
+*.color2:       #242e2d
+*.color10:      #88ade3
+
+! yellow
+*.color3:       #384746
+*.color11:      #6faf70
+
+! blue
+*.color4:       #536665
+*.color12:      #6a9c9a
+
+! magenta
+*.color5:       #728c8b
+*.color13:      #67a6a3
+
+! cyan
+*.color6:       #97b8b7
+*.color14:      #e28a91
+
+! white
+*.color7:       #c0ebe9
+*.color15:      #a38c41
+

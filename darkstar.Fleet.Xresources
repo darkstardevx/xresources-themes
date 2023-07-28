@@ -1,0 +1,37 @@
+! Fleet
+*.foreground:   #c4c5d6
+*.background:   #0f101b
+*.cursorColor:  #c4c5d6
+
+! black
+*.color0:       #191b29
+*.color8:       #73bcc4
+
+! red
+*.color1:       #212335
+*.color9:       #979dce
+
+! green
+*.color2:       #31344b
+*.color10:      #6db7be
+
+! yellow
+*.color3:       #464a6a
+*.color11:      #9a955c
+
+! blue
+*.color4:       #62678f
+*.color12:      #54af7a
+
+! magenta
+*.color5:       #868aab
+*.color13:      #ea90d3
+
+! cyan
+*.color6:       #b1b3c9
+*.color14:      #9c985d
+
+! white
+*.color7:       #e1e2ea
+*.color15:      #cf6e54
+

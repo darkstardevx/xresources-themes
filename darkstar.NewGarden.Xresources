@@ -1,0 +1,37 @@
+! NewGarden
+*.foreground:   #d3cdcf
+*.background:   #0f0c0d
+*.cursorColor:  #d3cdcf
+
+! black
+*.color0:       #191416
+*.color8:       #f5b9cf
+
+! red
+*.color1:       #221d1f
+*.color9:       #85dcc5
+
+! green
+*.color2:       #352e30
+*.color10:      #f9c595
+
+! yellow
+*.color3:       #4f4548
+*.color11:      #5eceb3
+
+! blue
+*.color4:       #706267
+*.color12:      #edb8cc
+
+! magenta
+*.color5:       #96858b
+*.color13:      #f9be85
+
+! cyan
+*.color6:       #bab0b4
+*.color14:      #f3c6d6
+
+! white
+*.color7:       #e5e2e3
+*.color15:      #77efd1
+

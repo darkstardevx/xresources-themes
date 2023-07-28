@@ -1,0 +1,37 @@
+! NeoFresh
+*.foreground:   #d8d3d1
+*.background:   #0a0908
+*.cursorColor:  #d8d3d1
+
+! black
+*.color0:       #121110
+*.color8:       #17a987
+
+! red
+*.color1:       #1d1a19
+*.color9:       #a470e2
+
+! green
+*.color2:       #2f2b2a
+*.color10:      #489d83
+
+! yellow
+*.color3:       #484341
+*.color11:      #b073f6
+
+! blue
+*.color4:       #68615e
+*.color12:      #778c38
+
+! magenta
+*.color5:       #8e8681
+*.color13:      #93ad46
+
+! cyan
+*.color6:       #bab0aa
+*.color14:      #ec199e
+
+! white
+*.color7:       #e5e2e0
+*.color15:      #3dbcde
+

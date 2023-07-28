@@ -1,0 +1,37 @@
+! NeoZone
+*.foreground:   #e6dcea
+*.background:   #030103
+*.cursorColor:  #e6dcea
+
+! black
+*.color0:       #060307
+*.color8:       #81d03a
+
+! red
+*.color1:       #190f1d
+*.color9:       #d489eb
+
+! green
+*.color2:       #2f1f34
+*.color10:      #de81f9
+
+! yellow
+*.color3:       #4c3554
+*.color11:      #e28dfc
+
+! blue
+*.color4:       #72517d
+*.color12:      #87dc37
+
+! magenta
+*.color5:       #9f73ad
+*.color13:      #f39eb4
+
+! cyan
+*.color6:       #c1a6cb
+*.color14:      #6fbbed
+
+! white
+*.color7:       #e9dfec
+*.color15:      #29aeeb
+

@@ -1,0 +1,37 @@
+! MarsRed
+*.foreground:   #dcc0c6
+*.background:   #1c0c10
+*.cursorColor:  #dcc0c6
+
+! black
+*.color0:       #2b151b
+*.color8:       #a88031
+
+! red
+*.color1:       #371d24
+*.color9:       #729c58
+
+! green
+*.color2:       #4e2b34
+*.color10:      #b38d51
+
+! yellow
+*.color3:       #6e3e4b
+*.color11:      #d1a456
+
+! blue
+*.color4:       #965768
+*.color12:      #c056db
+
+! magenta
+*.color5:       #bd798a
+*.color13:      #d281eb
+
+! cyan
+*.color6:       #d2abb4
+*.color14:      #6ba7d1
+
+! white
+*.color7:       #eddfe2
+*.color15:      #f15b8d
+

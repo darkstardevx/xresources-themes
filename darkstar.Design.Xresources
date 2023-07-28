@@ -1,0 +1,37 @@
+! Design
+*.foreground:   #d2d0b9
+*.background:   #0d0d0a
+*.cursorColor:  #d2d0b9
+
+! black
+*.color0:       #161612
+*.color8:       #df60c3
+
+! red
+*.color1:       #1f1f1a
+*.color9:       #7180db
+
+! green
+*.color2:       #30302a
+*.color10:      #e4a092
+
+! yellow
+*.color3:       #48483f
+*.color11:      #e4a092
+
+! blue
+*.color4:       #67665a
+*.color12:      #6ecb94
+
+! magenta
+*.color5:       #8b8a7a
+*.color13:      #e98e7a
+
+! cyan
+*.color6:       #b6b4a0
+*.color14:      #73c192
+
+! white
+*.color7:       #e6e3cb
+*.color15:      #7a86d7
+

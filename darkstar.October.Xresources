@@ -1,0 +1,37 @@
+! October
+*.foreground:   #cbcbdb
+*.background:   #0d0d1b
+*.cursorColor:  #cbcbdb
+
+! black
+*.color0:       #161629
+*.color8:       #8c8c4b
+
+! red
+*.color1:       #1e1e36
+*.color9:       #f8906a
+
+! green
+*.color2:       #2e2e4f
+*.color10:      #f131c4
+
+! yellow
+*.color3:       #454571
+*.color11:      #f464cd
+
+! blue
+*.color4:       #63628f
+*.color12:      #7b7bd2
+
+! magenta
+*.color5:       #8787ac
+*.color13:      #419da9
+
+! cyan
+*.color6:       #b1b1ca
+*.color14:      #8e8df9
+
+! white
+*.color7:       #e2e2eb
+*.color15:      #f28a63
+

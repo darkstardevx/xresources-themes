@@ -1,0 +1,37 @@
+! DevDreams
+*.foreground:   #dcc5da
+*.background:   #150b14
+*.cursorColor:  #dcc5da
+
+! black
+*.color0:       #20131f
+*.color8:       #fb95f0
+
+! red
+*.color1:       #2b1b29
+*.color9:       #f45ee6
+
+! green
+*.color2:       #402a3e
+*.color10:      #478ef0
+
+! yellow
+*.color3:       #5d3f5a
+*.color11:      #ed7ce2
+
+! blue
+*.color4:       #825a7d
+*.color12:      #ef80e4
+
+! magenta
+*.color5:       #ad79a8
+*.color13:      #24c4c4
+
+! cyan
+*.color6:       #cca9c8
+*.color14:      #e687dc
+
+! white
+*.color7:       #ebdfea
+*.color15:      #92b3f6
+

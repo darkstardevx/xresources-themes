@@ -1,0 +1,37 @@
+! Transformed
+*.foreground:   #d0c9db
+*.background:   #110c17
+*.cursorColor:  #d0c9db
+
+! black
+*.color0:       #1b1524
+*.color8:       #bd8b64
+
+! red
+*.color1:       #251d30
+*.color9:       #6cd6b7
+
+! green
+*.color2:       #382c47
+*.color10:      #d69964
+
+! yellow
+*.color3:       #524266
+*.color11:      #e9b6cb
+
+! blue
+*.color4:       #725d8e
+*.color12:      #e8aac5
+
+! magenta
+*.color5:       #9483ad
+*.color13:      #9bb55d
+
+! cyan
+*.color6:       #baafca
+*.color14:      #e39cbb
+
+! white
+*.color7:       #e5e1eb
+*.color15:      #79cfee
+

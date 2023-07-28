@@ -1,0 +1,37 @@
+! DreamZone
+*.foreground:   #cfced6
+*.background:   #0d0c12
+*.cursorColor:  #cfced6
+
+! black
+*.color0:       #16141d
+*.color8:       #b9adf2
+
+! red
+*.color1:       #1f1d28
+*.color9:       #ed7dc2
+
+! green
+*.color2:       #302e3d
+*.color10:      #3d9672
+
+! yellow
+*.color3:       #48455a
+*.color11:      #579e80
+
+! blue
+*.color4:       #67627c
+*.color12:      #f539bb
+
+! magenta
+*.color5:       #8a879c
+*.color13:      #5595a3
+
+! cyan
+*.color6:       #b4b1bf
+*.color14:      #58a182
+
+! white
+*.color7:       #e2e2e7
+*.color15:      #bbb3e5
+

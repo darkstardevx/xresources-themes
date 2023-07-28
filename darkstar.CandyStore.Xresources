@@ -1,0 +1,37 @@
+! CandyStore
+*.foreground:   #d4d7da
+*.background:   #070708
+*.cursorColor:  #d4d7da
+
+! black
+*.color0:       #0e0e0f
+*.color8:       #bc7df1
+
+! red
+*.color1:       #18191a
+*.color9:       #5591a9
+
+! green
+*.color2:       #292a2b
+*.color10:      #83a43d
+
+! yellow
+*.color3:       #414344
+*.color11:      #c38e5a
+
+! blue
+*.color4:       #5f6163
+*.color12:      #bb7f38
+
+! magenta
+*.color5:       #838789
+*.color13:      #60b29c
+
+! cyan
+*.color6:       #adb2b5
+*.color14:      #849b5c
+
+! white
+*.color7:       #e0e3e4
+*.color15:      #f16eab
+

@@ -1,0 +1,37 @@
+! RedDevil
+*.foreground:   #d6ccd5
+*.background:   #100b0f
+*.cursorColor:  #d6ccd5
+
+! black
+*.color0:       #1a1419
+*.color8:       #45a95b
+
+! red
+*.color1:       #241c23
+*.color9:       #bb5fb3
+
+! green
+*.color2:       #372d36
+*.color10:      #eb504c
+
+! yellow
+*.color3:       #514350
+*.color11:      #649494
+
+! blue
+*.color4:       #725f70
+*.color12:      #519a9a
+
+! magenta
+*.color5:       #9b8297
+*.color13:      #5dc272
+
+! cyan
+*.color6:       #bfaebd
+*.color14:      #e989e0
+
+! white
+*.color7:       #e7e1e6
+*.color15:      #d55451
+

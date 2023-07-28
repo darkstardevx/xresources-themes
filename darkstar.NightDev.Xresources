@@ -1,0 +1,37 @@
+! NightDev
+*.foreground:   #ccd5e6
+*.background:   #06090f
+*.cursorColor:  #ccd5e6
+
+! black
+*.color0:       #0c1119
+*.color8:       #ebaceb
+
+! red
+*.color1:       #141b25
+*.color9:       #83abe3
+
+! green
+*.color2:       #232d3b
+*.color10:      #8fb8f3
+
+! yellow
+*.color3:       #384559
+*.color11:      #42cd44
+
+! blue
+*.color4:       #51637f
+*.color12:      #68d8d4
+
+! magenta
+*.color5:       #7088ad
+*.color13:      #48d4d0
+
+! cyan
+*.color6:       #a1b3d1
+*.color14:      #d3b75f
+
+! white
+*.color7:       #dde3ee
+*.color15:      #f9a3f8
+

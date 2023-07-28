@@ -1,0 +1,37 @@
+! NightLife
+*.foreground:   #cac5c6
+*.background:   #131011
+*.cursorColor:  #cac5c6
+
+! black
+*.color0:       #1f1b1c
+*.color8:       #9f742a
+
+! red
+*.color1:       #282324
+*.color9:       #7cb63a
+
+! green
+*.color2:       #3a3435
+*.color10:      #b58639
+
+! yellow
+*.color3:       #534a4d
+*.color11:      #71a043
+
+! blue
+*.color4:       #72676a
+*.color12:      #c03ae9
+
+! magenta
+*.color5:       #96898c
+*.color13:      #429ac5
+
+! cyan
+*.color6:       #bab3b5
+*.color14:      #c580e2
+
+! white
+*.color7:       #e4e2e2
+*.color15:      #f1458b
+

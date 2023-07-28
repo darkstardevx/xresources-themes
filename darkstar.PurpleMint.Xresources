@@ -1,0 +1,37 @@
+! PurpleMint
+*.foreground:   #a0d3ce
+*.background:   #0a1110
+*.cursorColor:  #a0d3ce
+
+! black
+*.color0:       #121b1a
+*.color8:       #d963e4
+
+! red
+*.color1:       #192423
+*.color9:       #86c978
+
+! green
+*.color2:       #273635
+*.color10:      #db91e3
+
+! yellow
+*.color3:       #3a4f4d
+*.color11:      #d3af59
+
+! blue
+*.color4:       #516d6b
+*.color12:      #dbace1
+
+! magenta
+*.color5:       #6e928e
+*.color13:      #b49549
+
+! cyan
+*.color6:       #8fbdb8
+*.color14:      #dc60e7
+
+! white
+*.color7:       #b5ede8
+*.color15:      #7bd6ce
+

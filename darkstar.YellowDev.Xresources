@@ -1,0 +1,37 @@
+! YellowDev
+*.foreground:   #dbd5da
+*.background:   #090708
+*.cursorColor:  #dbd5da
+
+! black
+*.color0:       #100d10
+*.color8:       #fecbc9
+
+! red
+*.color1:       #1c171b
+*.color9:       #faa9ef
+
+! green
+*.color2:       #2f282e
+*.color10:      #fa7e76
+
+! yellow
+*.color3:       #494047
+*.color11:      #c4b461
+
+! blue
+*.color4:       #6a5d68
+*.color12:      #e7d260
+
+! magenta
+*.color5:       #92818f
+*.color13:      #20f1f5
+
+! cyan
+*.color6:       #baaeb8
+*.color14:      #cddafe
+
+! white
+*.color7:       #e5e1e4
+*.color15:      #bba944
+

@@ -1,0 +1,37 @@
+! CoolBlue
+*.foreground:   #ebd8db
+*.background:   #090203
+*.cursorColor:  #ebd8db
+
+! black
+*.color0:       #100406
+*.color8:       #f5879f
+
+! red
+*.color1:       #240e13
+*.color9:       #3cbdb1
+
+! green
+*.color2:       #3d1d24
+*.color10:      #3390ca
+
+! yellow
+*.color3:       #61303b
+*.color11:      #d892e6
+
+! blue
+*.color4:       #8e4958
+*.color12:      #42938a
+
+! magenta
+*.color5:       #c2697d
+*.color13:      #2c93d0
+
+! cyan
+*.color6:       #d4a3ac
+*.color14:      #63b5f2
+
+! white
+*.color7:       #eedfe1
+*.color15:      #38b4fd
+

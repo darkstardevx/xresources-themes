@@ -1,0 +1,37 @@
+! DreamTime
+*.foreground:   #b0cfd4
+*.background:   #0c1011
+*.cursorColor:  #b0cfd4
+
+! black
+*.color0:       #151b1b
+*.color8:       #c6c35b
+
+! red
+*.color1:       #1d2425
+*.color9:       #f09fd8
+
+! green
+*.color2:       #2c3536
+*.color10:      #45c786
+
+! yellow
+*.color3:       #404d4f
+*.color11:      #9ba1fa
+
+! blue
+*.color4:       #5a6b6e
+*.color12:      #bbb840
+
+! magenta
+*.color5:       #798f93
+*.color13:      #70f2ad
+
+! cyan
+*.color6:       #9db9bd
+*.color14:      #49dcea
+
+! white
+*.color7:       #d0e7ea
+*.color15:      #ef8f74
+

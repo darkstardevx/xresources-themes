@@ -1,0 +1,37 @@
+! PurpleMadness
+*.foreground:   #bed5de
+*.background:   #080b0c
+*.cursorColor:  #bed5de
+
+! black
+*.color0:       #101415
+*.color8:       #6cc1a1
+
+! red
+*.color1:       #181e1f
+*.color9:       #72b8cb
+
+! green
+*.color2:       #272f32
+*.color10:      #57acc1
+
+! yellow
+*.color3:       #3c474b
+*.color11:      #a38cd9
+
+! blue
+*.color4:       #57666c
+*.color12:      #b199ea
+
+! magenta
+*.color5:       #788b92
+*.color13:      #6d9dac
+
+! cyan
+*.color6:       #9db7bf
+*.color14:      #c58b6a
+
+! white
+*.color7:       #d7e5ea
+*.color15:      #9f8bcf
+

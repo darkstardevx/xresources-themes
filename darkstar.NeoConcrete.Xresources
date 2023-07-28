@@ -1,0 +1,37 @@
+! NeoConcrete
+*.foreground:   #bcc8d5
+*.background:   #0e1115
+*.cursorColor:  #bcc8d5
+
+! black
+*.color0:       #171c21
+*.color8:       #6ca0cc
+
+! red
+*.color1:       #1f252b
+*.color9:       #ed2e6e
+
+! green
+*.color2:       #2f363e
+*.color10:      #c76dd7
+
+! yellow
+*.color3:       #444e58
+*.color11:      #cd4d6e
+
+! blue
+*.color4:       #5e6b79
+*.color12:      #b158c0
+
+! magenta
+*.color5:       #7d8ea0
+*.color13:      #5091c2
+
+! cyan
+*.color6:       #a6b6c8
+*.color14:      #ee547e
+
+! white
+*.color7:       #dde3ea
+*.color15:      #6eb5ec
+

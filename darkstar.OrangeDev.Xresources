@@ -1,0 +1,37 @@
+! OrangeDev
+*.foreground:   #d5d2e6
+*.background:   #0a0716
+*.cursorColor:  #d5d2e6
+
+! black
+*.color0:       #120e23
+*.color8:       #a395eb
+
+! red
+*.color1:       #1c1732
+*.color9:       #f7996a
+
+! green
+*.color2:       #2d264d
+*.color10:      #ee54bb
+
+! yellow
+*.color3:       #463c73
+*.color11:      #17cb91
+
+! blue
+*.color4:       #64599d
+*.color12:      #43a17a
+
+! magenta
+*.color5:       #8980b8
+*.color13:      #b3a6f7
+
+! cyan
+*.color6:       #b3aed2
+*.color14:      #31b886
+
+! white
+*.color7:       #e3e1ee
+*.color15:      #fda77e
+

@@ -1,0 +1,37 @@
+! RedOctober
+*.foreground:   #ccd3d4
+*.background:   #0a0b0b
+*.cursorColor:  #ccd3d4
+
+! black
+*.color0:       #121314
+*.color8:       #b0af58
+
+! red
+*.color1:       #1c1d1d
+*.color9:       #e28dc8
+
+! green
+*.color2:       #2c2e2e
+*.color10:      #e698ce
+
+! yellow
+*.color3:       #444647
+*.color11:      #b6b563
+
+! blue
+*.color4:       #616465
+*.color12:      #66b98c
+
+! magenta
+*.color5:       #84898a
+*.color13:      #62c390
+
+! cyan
+*.color6:       #aeb3b4
+*.color14:      #74b38f
+
+! white
+*.color7:       #dfe3e4
+*.color15:      #e7723f
+

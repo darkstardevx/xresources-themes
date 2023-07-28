@@ -1,0 +1,37 @@
+! Stylish
+*.foreground:   #e6cfd0
+*.background:   #140506
+*.cursorColor:  #e6cfd0
+
+! black
+*.color0:       #1f0b0c
+*.color8:       #52a3a1
+
+! red
+*.color1:       #2e1314
+*.color9:       #35ce4b
+
+! green
+*.color2:       #472022
+*.color10:      #4cb257
+
+! yellow
+*.color3:       #6a3436
+*.color11:      #bda75b
+
+! blue
+*.color4:       #974c50
+*.color12:      #93b2e6
+
+! magenta
+*.color5:       #c46f72
+*.color13:      #da4dd5
+
+! cyan
+*.color6:       #d5a6a8
+*.color14:      #a0bae7
+
+! white
+*.color7:       #eedfdf
+*.color15:      #29a6a4
+

@@ -1,0 +1,37 @@
+! DarkOverlord
+*.foreground:   #c7cdce
+*.background:   #0e0e0e
+*.cursorColor:  #c7cdce
+
+! black
+*.color0:       #171818
+*.color8:       #5ebb7f
+
+! red
+*.color1:       #1f2121
+*.color9:       #8095e4
+
+! green
+*.color2:       #303232
+*.color10:      #509398
+
+! yellow
+*.color3:       #47494a
+*.color11:      #b8ad4b
+
+! blue
+*.color4:       #646768
+*.color12:      #29a25d
+
+! magenta
+*.color5:       #878b8b
+*.color13:      #53c980
+
+! cyan
+*.color6:       #afb4b5
+*.color14:      #6bcc8d
+
+! white
+*.color7:       #dee3e4
+*.color15:      #8fa4f7
+

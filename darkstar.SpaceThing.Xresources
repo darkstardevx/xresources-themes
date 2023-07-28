@@ -1,0 +1,37 @@
+! SpaceThing
+*.foreground:   #c5ebda
+*.background:   #000000
+*.cursorColor:  #c5ebda
+
+! black
+*.color0:       #000000
+*.color8:       #d49574
+
+! red
+*.color1:       #0c120f
+*.color9:       #50816c
+
+! green
+*.color2:       #1d2521
+*.color10:      #aa6739
+
+! yellow
+*.color3:       #323f39
+*.color11:      #db93bb
+
+! blue
+*.color4:       #4e6057
+*.color12:      #d0804b
+
+! magenta
+*.color5:       #6f877c
+*.color13:      #d68db6
+
+! cyan
+*.color6:       #96b6a8
+*.color14:      #4b8795
+
+! white
+*.color7:       #c5ebda
+*.color15:      #d261a5
+

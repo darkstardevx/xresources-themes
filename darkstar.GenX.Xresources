@@ -1,0 +1,37 @@
+! GenX
+*.foreground:   #cedddd
+*.background:   #050606
+*.cursorColor:  #cedddd
+
+! black
+*.color0:       #0a0b0b
+*.color8:       #eeabe7
+
+! red
+*.color1:       #151717
+*.color9:       #e643d9
+
+! green
+*.color2:       #262929
+*.color10:      #86abf3
+
+! yellow
+*.color3:       #3d4242
+*.color11:      #efaead
+
+! blue
+*.color4:       #5a6161
+*.color12:      #53cd6e
+
+! magenta
+*.color5:       #7d8787
+*.color13:      #f09998
+
+! cyan
+*.color6:       #a7b3b3
+*.color14:      #e7abe0
+
+! white
+*.color7:       #d6e6e6
+*.color15:      #d468ca
+

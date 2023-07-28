@@ -1,0 +1,37 @@
+! Sky
+*.foreground:   #e3d3d8
+*.background:   #0e0508
+*.cursorColor:  #e3d3d8
+
+! black
+*.color0:       #170b0f
+*.color8:       #f2b355
+
+! red
+*.color1:       #24141a
+*.color9:       #cd91ed
+
+! green
+*.color2:       #3b232b
+*.color10:      #7dab46
+
+! yellow
+*.color3:       #5b3944
+*.color11:      #7acaf6
+
+! blue
+*.color4:       #835463
+*.color12:      #eeb772
+
+! magenta
+*.color5:       #b17588
+*.color13:      #cb84ee
+
+! cyan
+*.color6:       #caa9b3
+*.color14:      #4694b9
+
+! white
+*.color7:       #ebe0e3
+*.color15:      #6dc9f7
+

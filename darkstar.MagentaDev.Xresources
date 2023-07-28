@@ -1,0 +1,37 @@
+! MagentaDev
+*.foreground:   #c3cbc7
+*.background:   #0f100f
+*.cursorColor:  #c3cbc7
+
+! black
+*.color0:       #181a19
+*.color8:       #acb62c
+
+! red
+*.color1:       #212322
+*.color9:       #62e6af
+
+! green
+*.color2:       #313432
+*.color10:      #3acde3
+
+! yellow
+*.color3:       #484b4a
+*.color11:      #f3b4d9
+
+! blue
+*.color4:       #656967
+*.color12:      #f4b297
+
+! magenta
+*.color5:       #878d89
+*.color13:      #f7bedf
+
+! cyan
+*.color6:       #afb6b2
+*.color14:      #c7d248
+
+! white
+*.color7:       #dce4e0
+*.color15:      #f26ec4
+

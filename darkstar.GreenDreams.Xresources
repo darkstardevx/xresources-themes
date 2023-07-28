@@ -1,0 +1,37 @@
+! GreenDreams
+*.foreground:   #ebe0e0
+*.background:   #000000
+*.cursorColor:  #ebe0e0
+
+! black
+*.color0:       #000000
+*.color8:       #87a3db
+
+! red
+*.color1:       #1c0c0c
+*.color9:       #d79899
+
+! green
+*.color2:       #351c1c
+*.color10:      #61b3b3
+
+! yellow
+*.color3:       #573132
+*.color11:      #6fa576
+
+! blue
+*.color4:       #824d4d
+*.color12:      #81b1b1
+
+! magenta
+*.color5:       #b46f6f
+*.color13:      #76a0a0
+
+! cyan
+*.color6:       #caa7a7
+*.color14:      #5faf6c
+
+! white
+*.color7:       #ebe0e0
+*.color15:      #7cc787
+

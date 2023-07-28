@@ -1,0 +1,37 @@
+! RedMoon
+*.foreground:   #e2c5c8
+*.background:   #1b090b
+*.cursorColor:  #e2c5c8
+
+! black
+*.color0:       #281014
+*.color8:       #ecbcf0
+
+! red
+*.color1:       #35171c
+*.color9:       #efbcc2
+
+! green
+*.color2:       #4e252b
+*.color10:      #fbb4bc
+
+! yellow
+*.color3:       #703840
+*.color11:      #f3bdf7
+
+! blue
+*.color4:       #9b505b
+*.color12:      #74f260
+
+! magenta
+*.color5:       #c4737d
+*.color13:      #40dcd3
+
+! cyan
+*.color6:       #d5a8ad
+*.color14:      #f8da95
+
+! white
+*.color7:       #eedfe0
+*.color15:      #ebb9ef
+

@@ -1,0 +1,37 @@
+! ModernDev
+*.foreground:   #ccded7
+*.background:   #050605
+*.cursorColor:  #ccded7
+
+! black
+*.color0:       #090b0b
+*.color8:       #e0a06b
+
+! red
+*.color1:       #151716
+*.color9:       #5ac3a4
+
+! green
+*.color2:       #252928
+*.color10:      #7dbcd4
+
+! yellow
+*.color3:       #3c4240
+*.color11:      #b7d07e
+
+! blue
+*.color4:       #59625e
+*.color12:      #da87ad
+
+! magenta
+*.color5:       #7c8883
+*.color13:      #ecc8d7
+
+! cyan
+*.color6:       #a5b4ae
+*.color14:      #e69b52
+
+! white
+*.color7:       #d4e7e0
+*.color15:      #66cef0
+

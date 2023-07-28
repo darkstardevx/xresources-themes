@@ -1,0 +1,37 @@
+! Darksource
+*.foreground:   #c3d4e0
+*.background:   #080b0e
+*.cursorColor:  #c3d4e0
+
+! black
+*.color0:       #0f1417
+*.color8:       #8ca275
+
+! red
+*.color1:       #171d21
+*.color9:       #75aea0
+
+! green
+*.color2:       #272f35
+*.color10:      #b4cddd
+
+! yellow
+*.color3:       #3b474f
+*.color11:      #aad07e
+
+! blue
+*.color4:       #566670
+*.color12:      #caaedf
+
+! magenta
+*.color5:       #768b99
+*.color13:      #e19eb5
+
+! cyan
+*.color6:       #9bb6c8
+*.color14:      #64a495
+
+! white
+*.color7:       #dae4eb
+*.color15:      #b395c8
+

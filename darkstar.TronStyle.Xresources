@@ -1,0 +1,37 @@
+! TronStyle
+*.foreground:   #b4dcdb
+*.background:   #060a0a
+*.cursorColor:  #b4dcdb
+
+! black
+*.color0:       #0c1212
+*.color8:       #71cd79
+
+! red
+*.color1:       #151c1c
+*.color9:       #6ce4e1
+
+! green
+*.color2:       #242e2e
+*.color10:      #aabfe6
+
+! yellow
+*.color3:       #384746
+*.color11:      #ec9ae8
+
+! blue
+*.color4:       #536666
+*.color12:      #98b4e6
+
+! magenta
+*.color5:       #728c8b
+*.color13:      #d2b752
+
+! cyan
+*.color6:       #97b8b7
+*.color14:      #eed05c
+
+! white
+*.color7:       #c1ebe9
+*.color15:      #5dd3d0
+

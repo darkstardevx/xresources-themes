@@ -1,0 +1,37 @@
+! DarkerDev
+*.foreground:   #bdc6dd
+*.background:   #0c111a
+*.cursorColor:  #bdc6dd
+
+! black
+*.color0:       #161c27
+*.color8:       #9fbcf5
+
+! red
+*.color1:       #1d2433
+*.color9:       #5eb86d
+
+! green
+*.color2:       #2c3548
+*.color10:      #45cc61
+
+! yellow
+*.color3:       #404d66
+*.color11:      #d9bd31
+
+! blue
+*.color4:       #596a8b
+*.color12:      #dfc32f
+
+! magenta
+*.color5:       #778db8
+*.color13:      #f18383
+
+! cyan
+*.color6:       #a8b5d2
+*.color14:      #51a85f
+
+! white
+*.color7:       #dee2ed
+*.color15:      #eb96e4
+

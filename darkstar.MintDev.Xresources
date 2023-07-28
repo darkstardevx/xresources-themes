@@ -1,0 +1,37 @@
+! MintDev
+*.foreground:   #ded8dc
+*.background:   #070506
+*.cursorColor:  #ded8dc
+
+! black
+*.color0:       #0d0a0c
+*.color8:       #21a55d
+
+! red
+*.color1:       #1a1619
+*.color9:       #428488
+
+! green
+*.color2:       #2d272b
+*.color10:      #b7ab23
+
+! yellow
+*.color3:       #473e45
+*.color11:      #e585d2
+
+! blue
+*.color4:       #695c66
+*.color12:      #f63fd9
+
+! magenta
+*.color5:       #91808d
+*.color13:      #468f93
+
+! cyan
+*.color6:       #b9adb6
+*.color14:      #5782fa
+
+! white
+*.color7:       #e5e1e4
+*.color15:      #56b277
+

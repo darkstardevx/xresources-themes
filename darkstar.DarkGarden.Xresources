@@ -1,0 +1,37 @@
+! DarkGarden
+*.foreground:   #dfdfe4
+*.background:   #020203
+*.cursorColor:  #dfdfe4
+
+! black
+*.color0:       #030405
+*.color8:       #939cc9
+
+! red
+*.color1:       #121318
+*.color9:       #d980c5
+
+! green
+*.color2:       #23242d
+*.color10:      #b76d61
+
+! yellow
+*.color3:       #3b3d4a
+*.color11:      #9da4c9
+
+! blue
+*.color4:       #595c6f
+*.color12:      #949ed2
+
+! magenta
+*.color5:       #7e8296
+*.color13:      #5c926f
+
+! cyan
+*.color6:       #adafbc
+*.color14:      #80aa8e
+
+! white
+*.color7:       #e1e2e7
+*.color15:      #77b98e
+

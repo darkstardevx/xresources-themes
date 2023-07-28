@@ -1,0 +1,37 @@
+! TealAppeal
+*.foreground:   #b8dae5
+*.background:   #060a0b
+*.cursorColor:  #b8dae5
+
+! black
+*.color0:       #0c1214
+*.color8:       #f99d5e
+
+! red
+*.color1:       #141c1f
+*.color9:       #997fda
+
+! green
+*.color2:       #222e31
+*.color10:      #58a6b9
+
+! yellow
+*.color3:       #36474c
+*.color11:      #aa94e3
+
+! blue
+*.color4:       #4f666d
+*.color12:      #c5b6f2
+
+! magenta
+*.color5:       #6e8c95
+*.color13:      #e8a9ca
+
+! cyan
+*.color6:       #91b8c4
+*.color14:      #f62fb4
+
+! white
+*.color7:       #d1e6ed
+*.color15:      #6bbe9d
+

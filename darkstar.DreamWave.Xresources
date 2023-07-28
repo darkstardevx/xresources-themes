@@ -1,0 +1,37 @@
+! DreamWave
+*.foreground:   #dcc6d8
+*.background:   #140b13
+*.cursorColor:  #dcc6d8
+
+! black
+*.color0:       #20141e
+*.color8:       #eba8a4
+
+! red
+*.color1:       #2b1c29
+*.color9:       #c9bc82
+
+! green
+*.color2:       #3f2b3c
+*.color10:      #d57cc9
+
+! yellow
+*.color3:       #5c4058
+*.color11:      #79bd89
+
+! blue
+*.color4:       #815a7b
+*.color12:      #eb84dd
+
+! magenta
+*.color5:       #ac7aa4
+*.color13:      #ddcd81
+
+! cyan
+*.color6:       #cbaac5
+*.color14:      #7e9fec
+
+! white
+*.color7:       #ebdfe9
+*.color15:      #d9c76b
+

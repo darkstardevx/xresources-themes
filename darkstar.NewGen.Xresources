@@ -1,0 +1,37 @@
+! NewGen
+*.foreground:   #cad4c9
+*.background:   #0a0b0a
+*.cursorColor:  #cad4c9
+
+! black
+*.color0:       #121412
+*.color8:       #5da5ea
+
+! red
+*.color1:       #1b1d1b
+*.color9:       #a98e44
+
+! green
+*.color2:       #2c2e2c
+*.color10:      #2bcdc5
+
+! yellow
+*.color3:       #434743
+*.color11:      #81b1e9
+
+! blue
+*.color4:       #606560
+*.color12:      #51a3ec
+
+! magenta
+*.color5:       #838a83
+*.color13:      #9d843e
+
+! cyan
+*.color6:       #acb5ab
+*.color14:      #3c9f99
+
+! white
+*.color7:       #dce5db
+*.color15:      #f19ef6
+

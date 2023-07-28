@@ -1,0 +1,37 @@
+! BlueDev
+*.foreground:   #d4cdd3
+*.background:   #0f0c0f
+*.cursorColor:  #d4cdd3
+
+! black
+*.color0:       #181418
+*.color8:       #f751e9
+
+! red
+*.color1:       #221d22
+*.color9:       #28b550
+
+! green
+*.color2:       #352d34
+*.color10:      #589f9f
+
+! yellow
+*.color3:       #4f444d
+*.color11:      #fa9bf0
+
+! blue
+*.color4:       #6f616d
+*.color12:      #6093e8
+
+! magenta
+*.color5:       #968494
+*.color13:      #4bacad
+
+! cyan
+*.color6:       #bcafba
+*.color14:      #a99634
+
+! white
+*.color7:       #e6e1e5
+*.color15:      #5e93ea
+

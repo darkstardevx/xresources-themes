@@ -1,0 +1,37 @@
+! Toxic
+*.foreground:   #cdd2dd
+*.background:   #090b10
+*.cursorColor:  #cdd2dd
+
+! black
+*.color0:       #11131a
+*.color8:       #c0ab4f
+
+! red
+*.color1:       #191d25
+*.color9:       #d2b833
+
+! green
+*.color2:       #292e39
+*.color10:      #0ec4c4
+
+! yellow
+*.color3:       #3e4656
+*.color11:      #d2bb5a
+
+! blue
+*.color4:       #5a647a
+*.color12:      #64b9b8
+
+! magenta
+*.color5:       #7b88a5
+*.color13:      #46af5a
+
+! cyan
+*.color6:       #aab3c6
+*.color14:      #fbbcbc
+
+! white
+*.color7:       #e0e2ea
+*.color15:      #3bed65
+

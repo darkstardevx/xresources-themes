@@ -1,0 +1,37 @@
+! Garden
+*.foreground:   #c8d0d3
+*.background:   #0c0d0d
+*.cursorColor:  #c8d0d3
+
+! black
+*.color0:       #141616
+*.color8:       #4d92a3
+
+! red
+*.color1:       #1d1f1f
+*.color9:       #46a080
+
+! green
+*.color2:       #2e3031
+*.color10:      #f28c33
+
+! yellow
+*.color3:       #454849
+*.color11:      #879628
+
+! blue
+*.color4:       #626668
+*.color12:      #d43f9e
+
+! magenta
+*.color5:       #848a8c
+*.color13:      #84931e
+
+! cyan
+*.color6:       #adb4b7
+*.color14:      #47a684
+
+! white
+*.color7:       #dfe3e5
+*.color15:      #459477
+

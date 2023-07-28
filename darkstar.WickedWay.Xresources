@@ -1,0 +1,37 @@
+! WickedWay
+*.foreground:   #d0e5d0
+*.background:   #020202
+*.cursorColor:  #d0e5d0
+
+! black
+*.color0:       #030403
+*.color8:       #e65e6f
+
+! red
+*.color1:       #101410
+*.color9:       #aa9146
+
+! green
+*.color2:       #212621
+*.color10:      #ac944f
+
+! yellow
+*.color3:       #383f38
+*.color11:      #69c5c0
+
+! blue
+*.color4:       #556055
+*.color12:      #f07e8a
+
+! magenta
+*.color5:       #788778
+*.color13:      #e798a0
+
+! cyan
+*.color6:       #a1b5a1
+*.color14:      #f04660
+
+! white
+*.color7:       #d5e8d4
+*.color15:      #ec7aed
+

@@ -1,0 +1,37 @@
+! KindaDifferent
+*.foreground:   #d7dedb
+*.background:   #040404
+*.cursorColor:  #d7dedb
+
+! black
+*.color0:       #070707
+*.color8:       #b8ca65
+
+! red
+*.color1:       #141515
+*.color9:       #dea07d
+
+! green
+*.color2:       #252726
+*.color10:      #e389ba
+
+! yellow
+*.color3:       #3d403e
+*.color11:      #76cae1
+
+! blue
+*.color4:       #5c5f5e
+*.color12:      #dd9260
+
+! magenta
+*.color5:       #818583
+*.color13:      #d585b0
+
+! cyan
+*.color6:       #acb1af
+*.color14:      #e8a1c6
+
+! white
+*.color7:       #dde4e1
+*.color15:      #a5b170
+

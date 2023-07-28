@@ -1,0 +1,37 @@
+! DarkPurple
+*.foreground:   #cfd6d4
+*.background:   #090909
+*.cursorColor:  #cfd6d4
+
+! black
+*.color0:       #101111
+*.color8:       #d2a2e5
+
+! red
+*.color1:       #1a1b1b
+*.color9:       #c59c5e
+
+! green
+*.color2:       #2b2c2c
+*.color10:      #6aa239
+
+! yellow
+*.color3:       #424544
+*.color11:      #699549
+
+! blue
+*.color4:       #606362
+*.color12:      #f39ab2
+
+! magenta
+*.color5:       #848887
+*.color13:      #b7892e
+
+! cyan
+*.color6:       #aeb3b2
+*.color14:      #498ab1
+
+! white
+*.color7:       #dde4e2
+*.color15:      #d066f0
+

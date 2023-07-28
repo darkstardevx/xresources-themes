@@ -1,0 +1,37 @@
+! BlueLagoon
+*.foreground:   #cbd3d7
+*.background:   #0a0b0c
+*.cursorColor:  #cbd3d7
+
+! black
+*.color0:       #121415
+*.color8:       #cba3ee
+
+! red
+*.color1:       #1b1d1e
+*.color9:       #c89cee
+
+! green
+*.color2:       #2b2e30
+*.color10:      #49bea3
+
+! yellow
+*.color3:       #424649
+*.color11:      #f847a0
+
+! blue
+*.color4:       #5f6569
+*.color12:      #fc89ba
+
+! magenta
+*.color5:       #81898e
+*.color13:      #fc9cc3
+
+! cyan
+*.color6:       #a9b4ba
+*.color14:      #a7ce60
+
+! white
+*.color7:       #dfe3e6
+*.color15:      #58a2c0
+

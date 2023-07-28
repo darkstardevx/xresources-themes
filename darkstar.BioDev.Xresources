@@ -1,0 +1,37 @@
+! BioDev
+*.foreground:   #dac9e2
+*.background:   #120916
+*.cursorColor:  #dac9e2
+
+! black
+*.color0:       #1d1122
+*.color8:       #4ea193
+
+! red
+*.color1:       #28192e
+*.color9:       #c29654
+
+! green
+*.color2:       #3d2845
+*.color10:      #e56b93
+
+! yellow
+*.color3:       #5a3c65
+*.color11:      #e05a89
+
+! blue
+*.color4:       #7e568e
+*.color12:      #c27edc
+
+! magenta
+*.color5:       #a579b7
+*.color13:      #7dae53
+
+! cyan
+*.color6:       #c5a9d2
+*.color14:      #4b9084
+
+! white
+*.color7:       #e9dfee
+*.color15:      #bc914f
+

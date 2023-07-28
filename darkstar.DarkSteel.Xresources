@@ -1,0 +1,37 @@
+! DarkSteel
+*.foreground:   #becadc
+*.background:   #0c1015
+*.cursorColor:  #becadc
+
+! black
+*.color0:       #141a21
+*.color8:       #80acdd
+
+! red
+*.color1:       #1c232c
+*.color9:       #e2c37d
+
+! green
+*.color2:       #2b3440
+*.color10:      #e19be7
+
+! yellow
+*.color3:       #3f4c5c
+*.color11:      #9fd896
+
+! blue
+*.color4:       #586a7f
+*.color12:      #a4bbd9
+
+! magenta
+*.color5:       #778da9
+*.color13:      #95bce9
+
+! cyan
+*.color6:       #a3b6cf
+*.color14:      #66a9a4
+
+! white
+*.color7:       #dde3ec
+*.color15:      #779cc5
+

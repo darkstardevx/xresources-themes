@@ -1,0 +1,37 @@
+! Slime
+*.foreground:   #c4e8d7
+*.background:   #010202
+*.cursorColor:  #c4e8d7
+
+! black
+*.color0:       #030403
+*.color8:       #bed126
+
+! red
+*.color1:       #0f1412
+*.color9:       #64cce3
+
+! green
+*.color2:       #1f2723
+*.color10:      #6ce1fb
+
+! yellow
+*.color3:       #35403b
+*.color11:      #50b28d
+
+! blue
+*.color4:       #516059
+*.color12:      #f388c6
+
+! magenta
+*.color5:       #72887e
+*.color13:      #23b88a
+
+! cyan
+*.color6:       #9ab6a9
+*.color14:      #9fae22
+
+! white
+*.color7:       #c9eadb
+*.color15:      #b9cb2a
+

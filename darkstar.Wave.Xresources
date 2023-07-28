@@ -1,0 +1,37 @@
+! Wave
+*.foreground:   #e2c8ce
+*.background:   #17080c
+*.cursorColor:  #e2c8ce
+
+! black
+*.color0:       #231015
+*.color8:       #f9bc4b
+
+! red
+*.color1:       #30171e
+*.color9:       #b1d3ef
+
+! green
+*.color2:       #48252f
+*.color10:      #77c4b7
+
+! yellow
+*.color3:       #693947
+*.color11:      #90e7d8
+
+! blue
+*.color4:       #935264
+*.color12:      #e89fb2
+
+! magenta
+*.color5:       #bf7288
+*.color13:      #b7dcf9
+
+! cyan
+*.color6:       #d3a8b2
+*.color14:      #4dd5c2
+
+! white
+*.color7:       #eddfe2
+*.color15:      #6bc5b7
+

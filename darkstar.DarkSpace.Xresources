@@ -1,0 +1,37 @@
+! DarkSpace
+*.foreground:   #c6d5cc
+*.background:   #0a0b0a
+*.cursorColor:  #c6d5cc
+
+! black
+*.color0:       #121412
+*.color8:       #e259be
+
+! red
+*.color1:       #1a1d1c
+*.color9:       #e45dc1
+
+! green
+*.color2:       #2b2f2c
+*.color10:      #e3815f
+
+! yellow
+*.color3:       #414744
+*.color11:      #63ad84
+
+! blue
+*.color4:       #5e6661
+*.color12:      #31909a
+
+! magenta
+*.color5:       #808a84
+*.color13:      #328b60
+
+! cyan
+*.color6:       #a8b6ad
+*.color14:      #9798d7
+
+! white
+*.color7:       #d7e6dd
+*.color15:      #9c9ef0
+

@@ -1,0 +1,37 @@
+! Evolved
+*.foreground:   #d5e5ea
+*.background:   #000000
+*.cursorColor:  #d5e5ea
+
+! black
+*.color0:       #000000
+*.color8:       #5ba3b4
+
+! red
+*.color1:       #0d1113
+*.color9:       #de8d5a
+
+! green
+*.color2:       #1d2426
+*.color10:      #d1c4fd
+
+! yellow
+*.color3:       #333e41
+*.color11:      #f4c1ab
+
+! blue
+*.color4:       #4f5e63
+*.color12:      #6dc2d6
+
+! magenta
+*.color5:       #71858b
+*.color13:      #c6b9f6
+
+! cyan
+*.color6:       #99b4bb
+*.color14:      #6bbcd0
+
+! white
+*.color7:       #d5e5ea
+*.color15:      #4bc5de
+

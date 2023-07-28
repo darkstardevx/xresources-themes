@@ -1,0 +1,37 @@
+! Darkness
+*.foreground:   #a6d6c7
+*.background:   #090f0e
+*.cursorColor:  #a6d6c7
+
+! black
+*.color0:       #111917
+*.color8:       #c598ef
+
+! red
+*.color1:       #18221f
+*.color9:       #d44b8f
+
+! green
+*.color2:       #263430
+*.color10:      #c38e59
+
+! yellow
+*.color3:       #3a4d47
+*.color11:      #9f54d5
+
+! blue
+*.color4:       #526c64
+*.color12:      #9c5dcd
+
+! magenta
+*.color5:       #709187
+*.color13:      #a47545
+
+! cyan
+*.color6:       #92bcaf
+*.color14:      #e390b2
+
+! white
+*.color7:       #b9eddd
+*.color15:      #44849d
+

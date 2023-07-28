@@ -1,0 +1,37 @@
+! RedDev
+*.foreground:   #c5ecca
+*.background:   #000000
+*.cursorColor:  #c5ecca
+
+! black
+*.color0:       #000000
+*.color8:       #3bc9c8
+
+! red
+*.color1:       #0c120c
+*.color9:       #fa5253
+
+! green
+*.color2:       #1c251d
+*.color10:      #e621da
+
+! yellow
+*.color3:       #304032
+*.color11:      #ec9fe5
+
+! blue
+*.color4:       #4b614e
+*.color12:      #44cf61
+
+! magenta
+*.color5:       #6c896f
+*.color13:      #52caca
+
+! cyan
+*.color6:       #92b996
+*.color14:      #54ba66
+
+! white
+*.color7:       #c5ecca
+*.color15:      #e8595a
+

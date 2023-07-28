@@ -1,0 +1,37 @@
+! BioWaste
+*.foreground:   #c8cfda
+*.background:   #0a0d10
+*.cursorColor:  #c8cfda
+
+! black
+*.color0:       #13161a
+*.color8:       #daacdf
+
+! red
+*.color1:       #1b1f24
+*.color9:       #a8e49c
+
+! green
+*.color2:       #2b3037
+*.color10:      #c5a869
+
+! yellow
+*.color3:       #414852
+*.color11:      #d1deef
+
+! blue
+*.color4:       #5c6674
+*.color12:      #f4e0be
+
+! magenta
+*.color5:       #7d8a9c
+*.color13:      #e5c585
+
+! cyan
+*.color6:       #a8b4c5
+*.color14:      #e4afeb
+
+! white
+*.color7:       #dfe3e9
+*.color15:      #96ef82
+

@@ -1,0 +1,37 @@
+! RedBlaze
+*.foreground:   #cad0cf
+*.background:   #0c0d0d
+*.cursorColor:  #cad0cf
+
+! black
+*.color0:       #151616
+*.color8:       #6bcec8
+
+! red
+*.color1:       #1e1f1f
+*.color9:       #dda7e1
+
+! green
+*.color2:       #2e3030
+*.color10:      #83c1bc
+
+! yellow
+*.color3:       #464848
+*.color11:      #db79e0
+
+! blue
+*.color4:       #636665
+*.color12:      #90b9eb
+
+! magenta
+*.color5:       #868a89
+*.color13:      #65b3ad
+
+! cyan
+*.color6:       #afb4b4
+*.color14:      #c3ab77
+
+! white
+*.color7:       #dde4e3
+*.color15:      #ed6279
+

@@ -1,0 +1,37 @@
+! MyBlueDev
+*.foreground:   #c5c8bd
+*.background:   #111110
+*.cursorColor:  #c5c8bd
+
+! black
+*.color0:       #1b1c1a
+*.color8:       #5ec9a3
+
+! red
+*.color1:       #242422
+*.color9:       #9679d4
+
+! green
+*.color2:       #353632
+*.color10:      #adba78
+
+! yellow
+*.color3:       #4c4d48
+*.color11:      #53b492
+
+! blue
+*.color4:       #696a64
+*.color12:      #e6a57f
+
+! magenta
+*.color5:       #8b8d85
+*.color13:      #acba70
+
+! cyan
+*.color6:       #b3b6ac
+*.color14:      #e58dbc
+
+! white
+*.color7:       #e1e4d7
+*.color15:      #8ec4d4
+

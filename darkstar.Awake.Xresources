@@ -1,0 +1,37 @@
+! Awake
+*.foreground:   #c6cdcf
+*.background:   #0d0e0f
+*.cursorColor:  #c6cdcf
+
+! black
+*.color0:       #161818
+*.color8:       #52b6c8
+
+! red
+*.color1:       #1f2121
+*.color9:       #e063b4
+
+! green
+*.color2:       #303232
+*.color10:      #d874b3
+
+! yellow
+*.color3:       #47494a
+*.color11:      #5c947a
+
+! blue
+*.color4:       #636769
+*.color12:      #4bb0c3
+
+! magenta
+*.color5:       #868b8d
+*.color13:      #7d69d6
+
+! cyan
+*.color6:       #aeb5b7
+*.color14:      #76b2bf
+
+! white
+*.color7:       #dfe3e4
+*.color15:      #a79fda
+

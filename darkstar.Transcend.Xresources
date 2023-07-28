@@ -1,0 +1,37 @@
+! Transcend
+*.foreground:   #cbd5e6
+*.background:   #06090f
+*.cursorColor:  #cbd5e6
+
+! black
+*.color0:       #0c1118
+*.color8:       #50b5b0
+
+! red
+*.color1:       #141b25
+*.color9:       #41a4a0
+
+! green
+*.color2:       #232d3a
+*.color10:      #71a1db
+
+! yellow
+*.color3:       #384558
+*.color11:      #e6959c
+
+! blue
+*.color4:       #51647e
+*.color12:      #7bc5c2
+
+! magenta
+*.color5:       #7089ab
+*.color13:      #ad9449
+
+! cyan
+*.color6:       #a0b3d1
+*.color14:      #b8a162
+
+! white
+*.color7:       #dde3ee
+*.color15:      #e46a78
+

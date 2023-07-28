@@ -1,0 +1,37 @@
+! XmasTime
+*.foreground:   #b1dddc
+*.background:   #060a0a
+*.cursorColor:  #b1dddc
+
+! black
+*.color0:       #0c1212
+*.color8:       #6da4f6
+
+! red
+*.color1:       #141c1c
+*.color9:       #77a2e6
+
+! green
+*.color2:       #232e2e
+*.color10:      #88aff1
+
+! yellow
+*.color3:       #374747
+*.color11:      #0cb6b4
+
+! blue
+*.color4:       #516766
+*.color12:      #f27dea
+
+! magenta
+*.color5:       #708d8c
+*.color13:      #34a5a4
+
+! cyan
+*.color6:       #94b9b8
+*.color14:      #f05b60
+
+! white
+*.color7:       #bdebeb
+*.color15:      #20b641
+

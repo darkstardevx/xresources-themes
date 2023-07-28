@@ -1,0 +1,37 @@
+! NeoGreen
+*.foreground:   #d9e0ec
+*.background:   #010203
+*.cursorColor:  #d9e0ec
+
+! black
+*.color0:       #030406
+*.color8:       #76aff2
+
+! red
+*.color1:       #0e131b
+*.color9:       #38f529
+
+! green
+*.color2:       #1d2531
+*.color10:      #bbd3f9
+
+! yellow
+*.color3:       #323e50
+*.color11:      #d7b647
+
+! blue
+*.color4:       #4d5e76
+*.color12:      #57e3dd
+
+! magenta
+*.color5:       #6d85a5
+*.color13:      #fbd44a
+
+! cyan
+*.color6:       #9eb1cf
+*.color14:      #f3a2f4
+
+! white
+*.color7:       #dde3ed
+*.color15:      #69d265
+

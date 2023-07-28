@@ -1,0 +1,37 @@
+! NeoBlue
+*.foreground:   #e4e2e0
+*.background:   #000000
+*.cursorColor:  #e4e2e0
+
+! black
+*.color0:       #000000
+*.color8:       #edadc0
+
+! red
+*.color1:       #11100f
+*.color9:       #f7c0d0
+
+! green
+*.color2:       #242321
+*.color10:      #eecfb0
+
+! yellow
+*.color3:       #3e3b39
+*.color11:      #e7d3f2
+
+! blue
+*.color4:       #5e5b58
+*.color12:      #f9d4ac
+
+! magenta
+*.color5:       #86817d
+*.color13:      #f1ba6e
+
+! cyan
+*.color6:       #b4aea8
+*.color14:      #f1c7d3
+
+! white
+*.color7:       #e4e2e0
+*.color15:      #5fb8e5
+

@@ -1,0 +1,37 @@
+! MintSuprise
+*.foreground:   #dee0e2
+*.background:   #020202
+*.cursorColor:  #dee0e2
+
+! black
+*.color0:       #030404
+*.color8:       #85ea45
+
+! red
+*.color1:       #121314
+*.color9:       #9fcbf4
+
+! green
+*.color2:       #232527
+*.color10:      #65ccc0
+
+! yellow
+*.color3:       #3b3e41
+*.color11:      #f1d09b
+
+! blue
+*.color4:       #5a5d62
+*.color12:      #eba2b1
+
+! magenta
+*.color5:       #7e8489
+*.color13:      #7beadc
+
+! cyan
+*.color6:       #aab0b7
+*.color14:      #e6b6f1
+
+! white
+*.color7:       #e1e3e5
+*.color15:      #4ce1d2
+

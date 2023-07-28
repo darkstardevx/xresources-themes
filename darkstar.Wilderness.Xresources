@@ -1,0 +1,37 @@
+! Wilderness
+*.foreground:   #c1d8bd
+*.background:   #090c09
+*.cursorColor:  #c1d8bd
+
+! black
+*.color0:       #111410
+*.color8:       #ec7b8f
+
+! red
+*.color1:       #191e18
+*.color9:       #5d9f98
+
+! green
+*.color2:       #292f28
+*.color10:      #c8aa6c
+
+! yellow
+*.color3:       #3f483e
+*.color11:      #c56cce
+
+! blue
+*.color4:       #5b6759
+*.color12:      #d185d9
+
+! magenta
+*.color5:       #7d8d7a
+*.color13:      #c1a56b
+
+! cyan
+*.color6:       #a4b8a0
+*.color14:      #5a98d0
+
+! white
+*.color7:       #d2e9cf
+*.color15:      #5ba747
+

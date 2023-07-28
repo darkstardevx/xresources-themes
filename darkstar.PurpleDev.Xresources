@@ -1,0 +1,37 @@
+! PurpleDev
+*.foreground:   #dedbe7
+*.background:   #040308
+*.cursorColor:  #dedbe7
+
+! black
+*.color0:       #08060f
+*.color8:       #f9a56a
+
+! red
+*.color1:       #171321
+*.color9:       #f067b6
+
+! green
+*.color2:       #2a2339
+*.color10:      #3fc097
+
+! yellow
+*.color3:       #443a5b
+*.color11:      #51b2cb
+
+! blue
+*.color4:       #655785
+*.color12:      #3fa8c1
+
+! magenta
+*.color5:       #8a7ea7
+*.color13:      #4cb894
+
+! cyan
+*.color6:       #b4acc7
+*.color14:      #9c73e4
+
+! white
+*.color7:       #e4e1eb
+*.color15:      #a47bee
+

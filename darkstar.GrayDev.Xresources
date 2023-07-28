@@ -1,0 +1,37 @@
+! GrayDev
+*.foreground:   #c3cbc4
+*.background:   #0f100f
+*.cursorColor:  #c3cbc4
+
+! black
+*.color0:       #181a18
+*.color8:       #ecc6e7
+
+! red
+*.color1:       #212321
+*.color9:       #eba9e2
+
+! green
+*.color2:       #313432
+*.color10:      #cdbe82
+
+! yellow
+*.color3:       #484b49
+*.color11:      #8fa5dc
+
+! blue
+*.color4:       #646965
+*.color12:      #eea7a4
+
+! magenta
+*.color5:       #878d88
+*.color13:      #c8b663
+
+! cyan
+*.color6:       #aeb6af
+*.color14:      #b0bee3
+
+! white
+*.color7:       #dde4de
+*.color15:      #90d2d3
+

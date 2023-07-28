@@ -1,0 +1,37 @@
+! DreamSpace
+*.foreground:   #cdeacf
+*.background:   #000000
+*.cursorColor:  #cdeacf
+
+! black
+*.color0:       #000000
+*.color8:       #dd9bda
+
+! red
+*.color1:       #0d120d
+*.color9:       #f0c8c9
+
+! green
+*.color2:       #1d251e
+*.color10:      #cbb87a
+
+! yellow
+*.color3:       #333f34
+*.color11:      #f19ca0
+
+! blue
+*.color4:       #4f6050
+*.color12:      #83aded
+
+! magenta
+*.color5:       #718872
+*.color13:      #a1b7df
+
+! cyan
+*.color6:       #98b79b
+*.color14:      #aec2e7
+
+! white
+*.color7:       #cdeacf
+*.color15:      #8cafe9
+

@@ -1,0 +1,37 @@
+! Hacker
+*.foreground:   #dbd5e3
+*.background:   #09060e
+*.cursorColor:  #dbd5e3
+
+! black
+*.color0:       #110c17
+*.color8:       #d7b6fc
+
+! red
+*.color1:       #1d1625
+*.color9:       #3ccbaa
+
+! green
+*.color2:       #30253c
+*.color10:      #fbc2d9
+
+! yellow
+*.color3:       #4b3c5c
+*.color11:      #f8be8d
+
+! blue
+*.color4:       #6e5885
+*.color12:      #e87fae
+
+! magenta
+*.color5:       #927daa
+*.color13:      #f1aa62
+
+! cyan
+*.color6:       #b9acc9
+*.color14:      #cca6f4
+
+! white
+*.color7:       #e5e1eb
+*.color15:      #9dc33e
+

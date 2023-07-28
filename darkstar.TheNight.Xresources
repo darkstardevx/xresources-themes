@@ -1,0 +1,37 @@
+! TheNight
+*.foreground:   #d2ced2
+*.background:   #0e0c0e
+*.cursorColor:  #d2ced2
+
+! black
+*.color0:       #171517
+*.color8:       #c445c6
+
+! red
+*.color1:       #201e20
+*.color9:       #bda35d
+
+! green
+*.color2:       #322e32
+*.color10:      #79b1f4
+
+! yellow
+*.color3:       #4b464b
+*.color11:      #e63ce8
+
+! blue
+*.color4:       #6a636a
+*.color12:      #c643c8
+
+! magenta
+*.color5:       #908690
+*.color13:      #559e53
+
+! cyan
+*.color6:       #b8b1b8
+*.color14:      #9b8753
+
+! white
+*.color7:       #e4e2e4
+*.color15:      #8fb0de
+

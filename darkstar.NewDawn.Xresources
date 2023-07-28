@@ -1,0 +1,37 @@
+! NewDawn
+*.foreground:   #dfd8dd
+*.background:   #070506
+*.cursorColor:  #dfd8dd
+
+! black
+*.color0:       #0e0a0c
+*.color8:       #259b66
+
+! red
+*.color1:       #1b1519
+*.color9:       #3598a3
+
+! green
+*.color2:       #2f262c
+*.color10:      #ea56c4
+
+! yellow
+*.color3:       #4a3d46
+*.color11:      #f6906f
+
+! blue
+*.color4:       #6c5b66
+*.color12:      #acab35
+
+! magenta
+*.color5:       #967e8e
+*.color13:      #f8987a
+
+! cyan
+*.color6:       #bcacb7
+*.color14:      #f87dd5
+
+! white
+*.color7:       #e6e1e4
+*.color15:      #31a36e
+

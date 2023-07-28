@@ -1,0 +1,37 @@
+! SpacyGray
+*.foreground:   #cbd5e5
+*.background:   #06090f
+*.cursorColor:  #cbd5e5
+
+! black
+*.color0:       #0c1118
+*.color8:       #acc3e3
+
+! red
+*.color1:       #151b24
+*.color9:       #7ddfd9
+
+! green
+*.color2:       #232d39
+*.color10:      #a5c0e6
+
+! yellow
+*.color3:       #384557
+*.color11:      #e6c984
+
+! blue
+*.color4:       #52647c
+*.color12:      #e7aae9
+
+! magenta
+*.color5:       #7189a9
+*.color13:      #efdbdd
+
+! cyan
+*.color6:       #a0b3d0
+*.color14:      #f6d8db
+
+! white
+*.color7:       #dde3ed
+*.color15:      #8baedb
+

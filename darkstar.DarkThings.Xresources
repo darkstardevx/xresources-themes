@@ -1,0 +1,37 @@
+! DarkThings
+*.foreground:   #dbd4e6
+*.background:   #0a0610
+*.cursorColor:  #dbd4e6
+
+! black
+*.color0:       #120b1a
+*.color8:       #8fb0be
+
+! red
+*.color1:       #1e152a
+*.color9:       #80af9f
+
+! green
+*.color2:       #312442
+*.color10:      #8e72b3
+
+! yellow
+*.color3:       #4d3a65
+*.color11:      #6aaa95
+
+! blue
+*.color4:       #6f5591
+*.color12:      #957ab9
+
+! magenta
+*.color5:       #937cb3
+*.color13:      #558393
+
+! cyan
+*.color6:       #b9abcf
+*.color14:      #70a391
+
+! white
+*.color7:       #e5e0ed
+*.color15:      #92a562
+

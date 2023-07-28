@@ -1,0 +1,37 @@
+! NavyBlueDev
+*.foreground:   #d2d3e3
+*.background:   #070813
+*.cursorColor:  #d2d3e3
+
+! black
+*.color0:       #0e101f
+*.color8:       #949be3
+
+! red
+*.color1:       #17192d
+*.color9:       #d75eba
+
+! green
+*.color2:       #272a46
+*.color10:      #62afb7
+
+! yellow
+*.color3:       #3d4169
+*.color11:      #be55a4
+
+! blue
+*.color4:       #595e94
+*.color12:      #569c74
+
+! magenta
+*.color5:       #8084b1
+*.color13:      #e27451
+
+! cyan
+*.color6:       #adb0cd
+*.color14:      #ad6755
+
+! white
+*.color7:       #e1e2ec
+*.color15:      #918e5b
+

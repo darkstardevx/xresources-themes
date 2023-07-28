@@ -1,0 +1,37 @@
+! DarkSeed
+*.foreground:   #ddd4e3
+*.background:   #0a060d
+*.cursorColor:  #ddd4e3
+
+! black
+*.color0:       #120c16
+*.color8:       #97bc76
+
+! red
+*.color1:       #1f1523
+*.color9:       #7fb8da
+
+! green
+*.color2:       #33253a
+*.color10:      #648ea8
+
+! yellow
+*.color3:       #4f3b58
+*.color11:      #c89547
+
+! blue
+*.color4:       #725780
+*.color12:      #6bad9f
+
+! magenta
+*.color5:       #997baa
+*.color13:      #74925b
+
+! cyan
+*.color6:       #bdabc9
+*.color14:      #ce6389
+
+! white
+*.color7:       #e7e0eb
+*.color15:      #6b93ac
+

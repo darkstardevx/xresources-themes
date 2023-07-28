@@ -1,0 +1,37 @@
+! NeoDev
+*.foreground:   #dde3ec
+*.background:   #000000
+*.cursorColor:  #dde3ec
+
+! black
+*.color0:       #000000
+*.color8:       #fe738b
+
+! red
+*.color1:       #0d1116
+*.color9:       #f377fc
+
+! green
+*.color2:       #1d242c
+*.color10:      #e335ed
+
+! yellow
+*.color3:       #333d49
+*.color11:      #c09c34
+
+! blue
+*.color4:       #4f5d6f
+*.color12:      #4891ce
+
+! magenta
+*.color5:       #70849c
+*.color13:      #9f8337
+
+! cyan
+*.color6:       #9eb1ca
+*.color14:      #60ba4e
+
+! white
+*.color7:       #dde3ec
+*.color15:      #1687cd
+

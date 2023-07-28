@@ -1,0 +1,37 @@
+! DeEvolved
+*.foreground:   #e5ddeb
+*.background:   #030104
+*.cursorColor:  #e5ddeb
+
+! black
+*.color0:       #050308
+*.color8:       #f1c08e
+
+! red
+*.color1:       #190f1f
+*.color9:       #65bbe2
+
+! green
+*.color2:       #2e1f38
+*.color10:      #c9a1e5
+
+! yellow
+*.color3:       #4b3559
+*.color11:      #bb81e0
+
+! blue
+*.color4:       #705084
+*.color12:      #fac182
+
+! magenta
+*.color5:       #9975b1
+*.color13:      #9ed83b
+
+! cyan
+*.color6:       #bda8ce
+*.color14:      #60ceb6
+
+! white
+*.color7:       #e7e0ed
+*.color15:      #ce9eee
+

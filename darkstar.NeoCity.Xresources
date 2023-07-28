@@ -1,0 +1,37 @@
+! NeoCity
+*.foreground:   #c4c6d0
+*.background:   #0f1116
+*.cursorColor:  #c4c6d0
+
+! black
+*.color0:       #1a1b22
+*.color8:       #6381d0
+
+! red
+*.color1:       #22242c
+*.color9:       #c25bb1
+
+! green
+*.color2:       #32353f
+*.color10:      #ec5cd7
+
+! yellow
+*.color3:       #484c5a
+*.color11:      #ada25b
+
+! blue
+*.color4:       #64697c
+*.color12:      #54c378
+
+! magenta
+*.color5:       #868ba0
+*.color13:      #b5aa65
+
+! cyan
+*.color6:       #b1b4c1
+*.color14:      #b6ac72
+
+! white
+*.color7:       #e1e2e7
+*.color15:      #7d91cf
+

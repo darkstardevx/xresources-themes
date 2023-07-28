@@ -1,0 +1,37 @@
+! NightCity
+*.foreground:   #d2cce2
+*.background:   #0f0a19
+*.cursorColor:  #d2cce2
+
+! black
+*.color0:       #191227
+*.color8:       #e380b6
+
+! red
+*.color1:       #231a34
+*.color9:       #ab90e2
+
+! green
+*.color2:       #35294d
+*.color10:      #838e57
+
+! yellow
+*.color3:       #4f3e70
+*.color11:      #e187b7
+
+! blue
+*.color4:       #705a9c
+*.color12:      #5b8e9d
+
+! magenta
+*.color5:       #9181b7
+*.color13:      #e065ab
+
+! cyan
+*.color6:       #b8aed1
+*.color14:      #7b874d
+
+! white
+*.color7:       #e4e1ed
+*.color15:      #5797a9
+

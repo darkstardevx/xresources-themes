@@ -1,0 +1,37 @@
+! GreenDev
+*.foreground:   #d5ccd7
+*.background:   #0f0b10
+*.cursorColor:  #d5ccd7
+
+! black
+*.color0:       #19141b
+*.color8:       #51bcaf
+
+! red
+*.color1:       #231c25
+*.color9:       #da8bec
+
+! green
+*.color2:       #362c38
+*.color10:      #5f9e3d
+
+! yellow
+*.color3:       #504354
+*.color11:      #e79af8
+
+! blue
+*.color4:       #715f76
+*.color12:      #62a7da
+
+! magenta
+*.color5:       #98829e
+*.color13:      #56a220
+
+! cyan
+*.color6:       #bcaec1
+*.color14:      #4e92c2
+
+! white
+*.color7:       #e6e1e7
+*.color15:      #149388
+

@@ -1,0 +1,37 @@
+! FuschiaDev
+*.foreground:   #dee0e1
+*.background:   #020202
+*.cursorColor:  #dee0e1
+
+! black
+*.color0:       #040404
+*.color8:       #d3a3b8
+
+! red
+*.color1:       #121313
+*.color9:       #e099b9
+
+! green
+*.color2:       #242526
+*.color10:      #d470a0
+
+! yellow
+*.color3:       #3c3e3f
+*.color11:      #c681a0
+
+! blue
+*.color4:       #5b5d5f
+*.color12:      #62a4bc
+
+! magenta
+*.color5:       #808485
+*.color13:      #b59ada
+
+! cyan
+*.color6:       #acb0b3
+*.color14:      #e685b2
+
+! white
+*.color7:       #e1e3e4
+*.color15:      #df5d9f
+

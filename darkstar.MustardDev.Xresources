@@ -1,0 +1,37 @@
+! MustardDev
+*.foreground:   #dcddde
+*.background:   #040404
+*.cursorColor:  #dcddde
+
+! black
+*.color0:       #070708
+*.color8:       #e2b3af
+
+! red
+*.color1:       #141517
+*.color9:       #e3a5d7
+
+! green
+*.color2:       #262729
+*.color10:      #b1c0f3
+
+! yellow
+*.color3:       #3e3f43
+*.color11:      #70c88a
+
+! blue
+*.color4:       #5d5e64
+*.color12:      #889cdb
+
+! magenta
+*.color5:       #82848b
+*.color13:      #d3c56b
+
+! cyan
+*.color6:       #afb0b4
+*.color14:      #dbcd7a
+
+! white
+*.color7:       #e2e2e4
+*.color15:      #d7c869
+

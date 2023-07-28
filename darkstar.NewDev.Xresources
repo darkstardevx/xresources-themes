@@ -1,0 +1,37 @@
+! NewDev
+*.foreground:   #ccc9c3
+*.background:   #10100f
+*.cursorColor:  #ccc9c3
+
+! black
+*.color0:       #1a1a18
+*.color8:       #d99399
+
+! red
+*.color1:       #232221
+*.color9:       #6faeab
+
+! green
+*.color2:       #343331
+*.color10:      #c87ac9
+
+! yellow
+*.color3:       #4c4a48
+*.color11:      #559390
+
+! blue
+*.color4:       #6a6864
+*.color12:      #da6adb
+
+! magenta
+*.color5:       #8d8b87
+*.color13:      #dea1a6
+
+! cyan
+*.color6:       #b7b4ae
+*.color14:      #958868
+
+! white
+*.color7:       #e4e2de
+*.color15:      #cd5cce
+

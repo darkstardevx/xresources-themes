@@ -1,0 +1,37 @@
+! ByDesign
+*.foreground:   #d2dfe2
+*.background:   #030404
+*.cursorColor:  #d2dfe2
+
+! black
+*.color0:       #060808
+*.color8:       #f465c9
+
+! red
+*.color1:       #131516
+*.color9:       #d07246
+
+! green
+*.color2:       #232728
+*.color10:      #8e85f7
+
+! yellow
+*.color3:       #3a4042
+*.color11:      #cb7146
+
+! blue
+*.color4:       #576062
+*.color12:      #ee80ca
+
+! magenta
+*.color5:       #7b8688
+*.color13:      #259b6b
+
+! cyan
+*.color6:       #a4b3b6
+*.color14:      #469871
+
+! white
+*.color7:       #dae4e7
+*.color15:      #ba6945
+

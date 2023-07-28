@@ -1,0 +1,37 @@
+! DreamScape
+*.foreground:   #dbe3ed
+*.background:   #000000
+*.cursorColor:  #dbe3ed
+
+! black
+*.color0:       #000000
+*.color8:       #8bb479
+
+! red
+*.color1:       #0c1116
+*.color9:       #8ebee6
+
+! green
+*.color2:       #1c242b
+*.color10:      #c6aa7f
+
+! yellow
+*.color3:       #313d48
+*.color11:      #7fb466
+
+! blue
+*.color4:       #4c5e6e
+*.color12:      #c098cb
+
+! magenta
+*.color5:       #6d859b
+*.color13:      #7ca36b
+
+! cyan
+*.color6:       #95b2cd
+*.color14:      #c6ad88
+
+! white
+*.color7:       #dbe3ed
+*.color15:      #cd99db
+

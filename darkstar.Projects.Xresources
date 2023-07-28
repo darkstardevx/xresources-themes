@@ -1,0 +1,37 @@
+! Projects
+*.foreground:   #bedbcf
+*.background:   #070a09
+*.cursorColor:  #bedbcf
+
+! black
+*.color0:       #0e1210
+*.color8:       #f08ac1
+
+! red
+*.color1:       #171c1a
+*.color9:       #eeb3d0
+
+! green
+*.color2:       #262e2b
+*.color10:      #4c9f82
+
+! yellow
+*.color3:       #3c4642
+*.color11:      #f95eb9
+
+! blue
+*.color4:       #576660
+*.color12:      #a9bc51
+
+! magenta
+*.color5:       #788b83
+*.color13:      #eb6cb4
+
+! cyan
+*.color6:       #9fb7ad
+*.color14:      #f491c6
+
+! white
+*.color7:       #cce9dd
+*.color15:      #b096e7
+

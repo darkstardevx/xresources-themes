@@ -1,0 +1,37 @@
+! Midnight
+*.foreground:   #d8dae3
+*.background:   #05050a
+*.cursorColor:  #d8dae3
+
+! black
+*.color0:       #090b12
+*.color8:       #61c8cf
+
+! red
+*.color1:       #141621
+*.color9:       #f4a59a
+
+! green
+*.color2:       #242837
+*.color10:      #eb9dda
+
+! yellow
+*.color3:       #3b4055
+*.color11:      #23bd6b
+
+! blue
+*.color4:       #585e7c
+*.color12:      #65dde5
+
+! magenta
+*.color5:       #7d84a4
+*.color13:      #6ae396
+
+! cyan
+*.color6:       #acb0c5
+*.color14:      #e7d72f
+
+! white
+*.color7:       #e1e2ea
+*.color15:      #c2caf4
+

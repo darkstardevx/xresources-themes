@@ -1,0 +1,37 @@
+! Hallowicked
+*.foreground:   #d8cfd5
+*.background:   #0e0a0d
+*.cursorColor:  #d8cfd5
+
+! black
+*.color0:       #171216
+*.color8:       #79b2b8
+
+! red
+*.color1:       #221b20
+*.color9:       #56ac78
+
+! green
+*.color2:       #352b32
+*.color10:      #c9c15f
+
+! yellow
+*.color3:       #50424c
+*.color11:      #71c490
+
+! blue
+*.color4:       #715e6c
+*.color12:      #aaa571
+
+! magenta
+*.color5:       #9a8193
+*.color13:      #57c886
+
+! cyan
+*.color6:       #beaeb9
+*.color14:      #e472cb
+
+! white
+*.color7:       #e7e1e5
+*.color15:      #dc6a4b
+

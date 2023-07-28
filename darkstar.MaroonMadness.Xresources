@@ -1,0 +1,37 @@
+! MaroonMadness
+*.foreground:   #e3cbd3
+*.background:   #14070c
+*.cursorColor:  #e3cbd3
+
+! black
+*.color0:       #200e14
+*.color8:       #b5db88
+
+! red
+*.color1:       #2d151e
+*.color9:       #f3bc81
+
+! green
+*.color2:       #442430
+*.color10:      #e4c09e
+
+! yellow
+*.color3:       #653849
+*.color11:      #e1b68b
+
+! blue
+*.color4:       #8f5168
+*.color12:      #f3d1b3
+
+! magenta
+*.color5:       #bd718d
+*.color13:      #a7d2eb
+
+! cyan
+*.color6:       #d2a7b5
+*.color14:      #bedf9a
+
+! white
+*.color7:       #eddfe3
+*.color15:      #7cb8d8
+

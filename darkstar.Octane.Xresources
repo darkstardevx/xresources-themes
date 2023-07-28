@@ -1,0 +1,37 @@
+! Octane
+*.foreground:   #eae0e4
+*.background:   #000000
+*.cursorColor:  #eae0e4
+
+! black
+*.color0:       #000000
+*.color8:       #bd9dea
+
+! red
+*.color1:       #180e12
+*.color9:       #2fbce0
+
+! green
+*.color2:       #2f1e26
+*.color10:      #fab1d2
+
+! yellow
+*.color3:       #4e3540
+*.color11:      #fac49e
+
+! blue
+*.color4:       #755161
+*.color12:      #68ceee
+
+! magenta
+*.color5:       #a5748a
+*.color13:      #f1b890
+
+! cyan
+*.color6:       #c5a7b4
+*.color14:      #9bdbf4
+
+! white
+*.color7:       #eae0e4
+*.color15:      #ccaef8
+
