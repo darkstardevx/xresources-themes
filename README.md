@@ -1,6 +1,6 @@
 ## Darkstar's Themes for Xresources
 #### DarkstarDevx [dsdx.tech@gmail.com]
-#### Website: dsdx.tech
+#### Website: [dsdx.tech](dsdx.tech)
 #### GitHub: https://github.com/darkstardevx
 ----
 
